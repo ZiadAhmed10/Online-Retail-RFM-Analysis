@@ -38,6 +38,6 @@
 -----------------------------------------------------------------------------------
 ## 7-Who are the highest paid customers for my store?
 ![15](https://user-images.githubusercontent.com/121814714/219791087-0b7e3f54-1e2d-4dc5-a8b0-90525db1783f.PNG)
-OUPUT SAMPLE:
+### OUPUT SAMPLE:
 ![16](https://user-images.githubusercontent.com/121814714/219791140-00cae43e-67d3-43cc-b8b8-b4305bc03870.PNG)
 ---------------------------------------------------------------------------------------------------

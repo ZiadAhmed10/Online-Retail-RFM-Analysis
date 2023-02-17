@@ -8,7 +8,7 @@ Customers have purchasing transactions that shall be monitored in order to obser
 - [What is the quantity per each stockcode?](#what-is-the-quantity-per-each-stockcode)
 - [What is the quantity ordered per each unique invoicedate?](#what-is-the-quantity-ordered-per-each-unique-invoicedate)
 - [Which invoicedates have the highest revenue?](#which-invoicedates-have-the-highest-revenue)
-- [Which customers who buy the most from the store based on qunatities?](#which-customers-who-buy-the-most-from-the-store-based-on-quantities)
+- [Which customers who buy the most from the store based on quantities?](#which-customers-who-buy-the-most-from-the-store-based-on-quantities)
 - [Who are the highest paid customers of my store?](#who-are-the-highest-paid-customers-of-my-store)
 --------------------------------------------------------------------------------
 ## What is the number of orders and customers in the united kingdom?
@@ -36,7 +36,7 @@ Customers have purchasing transactions that shall be monitored in order to obser
 ### OUTPUT SAMPLE:
 ![14](https://user-images.githubusercontent.com/121814714/219789269-754e8f69-5508-4901-b9ae-06324223ec37.PNG)
 ------------------------------------------------------------------------
-## Which customers who buy the most from the store based on qunatities?
+## Which customers who buy the most from the store based on quantities?
 ![11](https://user-images.githubusercontent.com/121814714/219786980-2a28df52-d8d8-4060-92e7-456769dee961.PNG)
 ### OUTPUT SAMPLE:
 ![12](https://user-images.githubusercontent.com/121814714/219787038-eb727cc9-ce3b-4957-beb8-61e631243038.PNG)

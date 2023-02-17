@@ -21,3 +21,7 @@
 ## OUTPUT SAMPLE : 
 ![8](https://user-images.githubusercontent.com/121814714/219783913-aec4c8cb-9a52-4bf8-9790-215175722f8b.PNG)
 ------------------------------------------------------------------------------
+## 4- What is the quantity order per each unique invoicedate [ordered by DESC]
+![9](https://user-images.githubusercontent.com/121814714/219785315-347d2338-88f5-4a54-a36c-d0d7844bbbeb.PNG)
+## OUTPUT SAMPLE :
+![10](https://user-images.githubusercontent.com/121814714/219785390-e1cae25a-214f-44f6-8794-8f8f7ff43693.PNG)

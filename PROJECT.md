@@ -23,12 +23,12 @@ Customers have purchasing transactions that shall be monitored in order to obser
 -----------------------------------------------------------------------------
 ### What is the quantity per each stockcode?
 ![7](https://user-images.githubusercontent.com/121814714/219783810-70bc17cf-2b74-4612-b571-3ad312618dae.PNG)
-### OUTPUT SAMPLE [ordered DSC]:
+### OUTPUT SAMPLE [ordered DESC]:
 ![8](https://user-images.githubusercontent.com/121814714/219783913-aec4c8cb-9a52-4bf8-9790-215175722f8b.PNG)
 ------------------------------------------------------------------------------
 ### What is the quantity ordered per each unique invoicedate?
 ![9](https://user-images.githubusercontent.com/121814714/219785315-347d2338-88f5-4a54-a36c-d0d7844bbbeb.PNG)
-### OUTPUT SAMPLE:
+### OUTPUT SAMPLE [ordered DESC]:
 ![10](https://user-images.githubusercontent.com/121814714/219785390-e1cae25a-214f-44f6-8794-8f8f7ff43693.PNG)
 ------------------------------------------------------------------------------
 ### Which invoicedates have the highest revenue?

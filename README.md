@@ -26,7 +26,7 @@
 ## OUTPUT SAMPLE:
 ![10](https://user-images.githubusercontent.com/121814714/219785390-e1cae25a-214f-44f6-8794-8f8f7ff43693.PNG)
 ------------------------------------------------------------------------------
-## 5-Which customers who buye the most from the store?
+## 5-Which customers who buy the most from the store?
 ![11](https://user-images.githubusercontent.com/121814714/219786980-2a28df52-d8d8-4060-92e7-456769dee961.PNG)
 ## OUTPUT SAMPLE:
 ![12](https://user-images.githubusercontent.com/121814714/219787038-eb727cc9-ce3b-4957-beb8-61e631243038.PNG)

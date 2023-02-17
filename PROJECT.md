@@ -47,8 +47,8 @@ Customers have purchasing transactions that shall be monitored in order to obser
 ![16](https://user-images.githubusercontent.com/121814714/219791140-00cae43e-67d3-43cc-b8b8-b4305bc03870.PNG)
 ---------------------------------------------------------------------------------------------------
 ## Quick Insights from the answers:
--
--
+- All the customers' purchasing transactions takes place on the United Kingdom only with 110 cutomers that have done 717 orders.
+- 
 -
 -
 -

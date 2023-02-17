@@ -3,11 +3,13 @@
 ## PROJECT DESCRIPTION:
 Customers have purchasing transactions that shall be monitored in order to observe each customer behavior to be able to target the customer in the most efficient and proactive way in the fututre to increase sales/revenue , enhance customers' retention and decrease churm.
 ## First of all : Asking some questions in order to gain some insights through answering these questions :
-1- OVERVIEW OF THE DATA (##what-is-the-number-of-orders-and-customers-in-the-united-kingdom
+- What is the number of orders and customers in the united kingdom (#What-is-the-number-of-orders-and-customers-in-the-united-kingdom)
+- [Overview](#overview)
 - [Titles](#titles)
 # Titles 
+# Overview
 --------------------------------------------------------------------------------
-## What is the number of orders and customers in the united kingdom 
+## What is the number of orders and customers in the united kingdom
 ![5](https://user-images.githubusercontent.com/121814714/219780112-5642382d-248f-4343-b7fd-0674d7ff4a41.PNG)
 ### OUTPUT:
 ![6](https://user-images.githubusercontent.com/121814714/219780517-43a71629-6bce-4c2c-bcf9-150164fa2a6f.PNG)

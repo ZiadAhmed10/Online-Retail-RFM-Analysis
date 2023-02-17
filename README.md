@@ -16,3 +16,8 @@
 ## OUTPUT SAMPLE :
 ![4](https://user-images.githubusercontent.com/121814714/219775526-9c02321d-0801-4ef0-b7f0-aec936e8423b.PNG)
 -----------------------------------------------------------------------------
+## 3- What is the quantity per each stockcode ?
+![7](https://user-images.githubusercontent.com/121814714/219783810-70bc17cf-2b74-4612-b571-3ad312618dae.PNG)
+## OUTPUT SAMPLE : 
+![8](https://user-images.githubusercontent.com/121814714/219783913-aec4c8cb-9a52-4bf8-9790-215175722f8b.PNG)
+------------------------------------------------------------------------------

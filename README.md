@@ -26,8 +26,17 @@
 ## OUTPUT SAMPLE:
 ![10](https://user-images.githubusercontent.com/121814714/219785390-e1cae25a-214f-44f6-8794-8f8f7ff43693.PNG)
 ------------------------------------------------------------------------------
-## 5-Which customers who buy the most from the store?
+## 5- Which invoicedates have the highest revenue?
+![13](https://user-images.githubusercontent.com/121814714/219789207-39e6ba20-ed10-4176-80fc-724a3b7d7426.PNG)
+## OUTPUT SAMPLE:
+![14](https://user-images.githubusercontent.com/121814714/219789269-754e8f69-5508-4901-b9ae-06324223ec37.PNG)
+------------------------------------------------------------------------
+## 6-Which customers who buy the most from the store? [regarding the #of orders]
 ![11](https://user-images.githubusercontent.com/121814714/219786980-2a28df52-d8d8-4060-92e7-456769dee961.PNG)
 ## OUTPUT SAMPLE:
 ![12](https://user-images.githubusercontent.com/121814714/219787038-eb727cc9-ce3b-4957-beb8-61e631243038.PNG)
 -----------------------------------------------------------------------------------
+## 7-Who are the highest paid customers for my store?
+![15](https://user-images.githubusercontent.com/121814714/219791087-0b7e3f54-1e2d-4dc5-a8b0-90525db1783f.PNG)
+OUPUT SAMPLE:
+![16](https://user-images.githubusercontent.com/121814714/219791140-00cae43e-67d3-43cc-b8b8-b4305bc03870.PNG)

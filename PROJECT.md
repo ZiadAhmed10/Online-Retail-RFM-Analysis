@@ -51,7 +51,7 @@
 ![16](https://user-images.githubusercontent.com/121814714/219791140-00cae43e-67d3-43cc-b8b8-b4305bc03870.PNG)
 ---------------------------------------------------------------------------------------------------
 ## Quick Insights from the answers:
-- All the customers' purchasing transactions takes place on the United Kingdom only with 110 cutomers that have done 717 orders.
+- All the customers' purchasing transactions take place only in the United Kingdom city, with 110 total cutomers that have done 717 orders.
 - 
 -
 -

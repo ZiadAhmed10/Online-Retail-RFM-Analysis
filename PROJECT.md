@@ -70,6 +70,10 @@
  ![image](https://user-images.githubusercontent.com/121814714/219884075-54b940ff-9ece-434e-be3b-211e51e055f5.png)
 ### OUTPUT SAMPLE:
 ![image](https://user-images.githubusercontent.com/121814714/219884119-5ba2b602-ce7e-4522-9705-26ada9ba34f5.png)
+### #THEN : Getting the recency value [though getting the difference between the most recent purchase on the DB level and most recent purchase per each customer]
+![image](https://user-images.githubusercontent.com/121814714/219894995-d03efa47-12be-4c21-afe4-b08718ce2dc4.png)
+### OUTPUT SAMPLE:
+![image](https://user-images.githubusercontent.com/121814714/219895545-637a7efc-64ec-473e-a711-ebf5768cd6a4.png)
 ----------------------------------------------------
 ### #STEP 2 : Getting Frequency Column:
 ![image](https://user-images.githubusercontent.com/121814714/219883144-f1f83613-b0d2-4984-a03d-4f5031b10fa7.png)

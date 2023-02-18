@@ -4,8 +4,8 @@
 #### Customers have purchasing transactions that shall be monitored in order to observe each customer behavior to be able to target the customer in the most efficient and proactive way in the fututre to increase sales/revenue , enhance customers' retention and decrease churm.
 ----------------------------------------------
 ## DATASET SAMPLE: 
-
-----------------------------------------------
+![17](https://user-images.githubusercontent.com/121814714/219868596-1c753d69-0a01-418c-b2f6-ba04acf57455.PNG)
+-------------------------------------
 ## First of all: Asking some questions in order to gain some insights through answering these questions :
 - [What is the number of orders and customers in the united kingdom?](#What-is-the-number-of-orders-and-customers-in-the-united-kingdom)
 - [What is the number of orders per each invoice date?](#what-is-the-number-of-orders-per-each-invoice-date)

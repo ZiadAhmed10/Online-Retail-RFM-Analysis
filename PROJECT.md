@@ -86,5 +86,9 @@
 ![image](https://user-images.githubusercontent.com/121814714/219883232-302fef14-1b48-498d-9a85-dc5dead4b917.png)
 ----------------------------------------------------
 ### #STEP 4 : Categorizing my customers based on their average score of FREQUENCY,MONETARY together and RECENCY score on its own [USING NTILE FUNCTION]:
-![image](https://user-images.githubusercontent.com/121814714/219899456-466965ae-dc94-4a24-b025-9379e5d493c6.png)
+![image](https://user-images.githubusercontent.com/121814714/219899506-b346ed41-1f42-4d9c-926b-18624ca7b708.png)
+### #OUTPUT SAMPLE:
+![image](https://user-images.githubusercontent.com/121814714/219899556-3750b21d-7376-47ee-9994-a072a879d390.png)
+-------------------------------------------------
+### #LAST STEP : Segmenting customers into [Champions -Loyal Customers-Potential Loyalists– Recent Customers – Promising -Customers Needing Attention - At Risk - Cant Lose Them – Hibernating – Lost] Groups:
 

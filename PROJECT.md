@@ -66,10 +66,10 @@
  - Frequency: How many times has the customer bough from the store?
  - Monetary: How much has each customer paid for the store through transactions?
  ----------------------------------------------------
- ### #STEP 1 : Getting Recency Column:
- ![image](https://user-images.githubusercontent.com/121814714/219882932-66d352d1-4484-42d8-a718-47099f0ed931.png)
+ ### #STEP 1 : The most recent transaction date for each customer:
+ ![image](https://user-images.githubusercontent.com/121814714/219884075-54b940ff-9ece-434e-be3b-211e51e055f5.png)
 ### OUTPUT SAMPLE:
-![image](https://user-images.githubusercontent.com/121814714/219883009-7ac4c89b-79e8-42ea-9b97-831c260e7a72.png)
+![image](https://user-images.githubusercontent.com/121814714/219884119-5ba2b602-ce7e-4522-9705-26ada9ba34f5.png)
 ----------------------------------------------------
 ### #STEP 2 : Getting Frequency Column:
 ![image](https://user-images.githubusercontent.com/121814714/219883144-f1f83613-b0d2-4984-a03d-4f5031b10fa7.png)

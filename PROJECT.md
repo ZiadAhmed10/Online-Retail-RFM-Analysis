@@ -62,7 +62,7 @@
 ## SECOND OF ALL: CUSTOMER SEGMENTATION 
 
 #### Trying to categorize customers based on 3 values:
-1- Receny: The most recent transaction date in which the customer has purchased from the store.
-2- Frequency: How many times has the customer bough from the store?
-3- Monetary: How much has each customer paid for the store through transactions?
+ - Receny: The most recent transaction date in which the customer has purchased from the store.
+ - Frequency: How many times has the customer bough from the store?
+ - Monetary: How much has each customer paid for the store through transactions?
 

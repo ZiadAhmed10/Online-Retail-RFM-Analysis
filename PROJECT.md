@@ -9,7 +9,7 @@
 ## First of all: Asking some questions in order to gain some insights through answering these questions :
 - [What is the number of orders and customers in the united kingdom?](#What-is-the-number-of-orders-and-customers-in-the-united-kingdom)
 - [What is the number of orders per each invoice date?](#what-is-the-number-of-orders-per-each-invoice-date)
-- [What is the quantity of orders per each stockcode?](#what-is-the-quantity-of-orders-per-each-stockcode)
+- [What is the number of orders per each stockcode?](#what-is-the-number-of-orders-per-each-stockcode)
 - [What is the quantity ordered per each unique invoicedate?](#what-is-the-quantity-ordered-per-each-unique-invoicedate)
 - [Which invoicedates have the highest revenue?](#which-invoicedates-have-the-highest-revenue)
 - [Who are the customers who buy the most from the store based on quantities?](#who-are-the-customers-who-buy-the-most-from-the-store-based-on-quantities)
@@ -25,7 +25,7 @@
 ### OUTPUT SAMPLE:
 ![4](https://user-images.githubusercontent.com/121814714/219775526-9c02321d-0801-4ef0-b7f0-aec936e8423b.PNG)
 -----------------------------------------------------------------------------
-### What is the quantity of orders per each stockcode?
+### What is the number of orders per each stockcode?
 ![7](https://user-images.githubusercontent.com/121814714/219783810-70bc17cf-2b74-4612-b571-3ad312618dae.PNG)
 ### OUTPUT SAMPLE:
 ![8](https://user-images.githubusercontent.com/121814714/219783913-aec4c8cb-9a52-4bf8-9790-215175722f8b.PNG)

@@ -90,5 +90,5 @@
 ### #OUTPUT SAMPLE:
 ![image](https://user-images.githubusercontent.com/121814714/219899556-3750b21d-7376-47ee-9994-a072a879d390.png)
 -------------------------------------------------
-### #LAST STEP : Segmenting customers into [Champions -Loyal Customers-Potential Loyalists– Recent Customers – Promising -Customers Needing Attention - At Risk - Cant Lose Them – Hibernating – Lost] Groups:
+### #LAST STEP : Segmenting customers into [Champions/Loyal Customers/Potential/Loyalists/Recent Customers/Promising/Customers Needing Attention/At Risk/Cant Lose/Them/Hibernating/Lost] Groups:
 

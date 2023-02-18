@@ -52,10 +52,10 @@
 ---------------------------------------------------------------------------------------------------
 ## Quick Insights from the answers:
 - All the customers' purchasing transactions take place only in the United Kingdom city, with 110 total cutomers that have done 717 orders.
-- Most of the orders are ordered from 11:00 to 15:00[Especially at 14:00].
-- Proucts with stockcode 84077 , 84879 are ordered the most[11848 and 6095 times].
-- Top 2 quantities of items were order in AUG month[4-8 and 11-8-2011].
-- There is a strong correlatoin between the quanitity of items purchased and the returned revenue, As the top 2 highest amount of revenue were returnred at the same 2 days that were having the highest purchased quanitity of items[4-8 and 11-8-2011].
+- Most of the orders are ordered from 11:00 to 15:00 [Especially at 14:00].
+- Proucts with stockcode 84077 , 84879 are ordered the most [11848 and 6095 times].
+- Top 2 quantities of items were order in AUG month [4-8 and 11-8-2011].
+- There is a strong correlatoin between the quanitity of items purchased and the returned revenue, As the top 2 highest amount of revenue were returnred at the same 2 days that were having the highest purchased quanitity of items [4-8 and 11-8-2011].
 - Customers with customer id 12748, 12971 and 12921 are the top 3 ones who buy the most from the store.
 - Customers with customer id 12931, 12748 and 12901 are the top 3 highest paid customers.
 ------------------------------------------------

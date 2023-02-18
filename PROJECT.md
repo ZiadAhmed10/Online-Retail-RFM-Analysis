@@ -54,6 +54,6 @@
 - All the customers' purchasing transactions take place only in the United Kingdom city, with 110 total cutomers that have done 717 orders.
 - Most of the orders are ordered from 11:00 to 15:00 [Specially at 14:00].
 - Proucts with stockcode 84077 , 84879 are ordered the most [11848 and 6095 times].
--
+- 
 -
 -

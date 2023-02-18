@@ -9,7 +9,7 @@
 ## First of all: Asking some questions in order to gain some insights through answering these questions :
 - [What is the number of orders and customers in the united kingdom?](#What-is-the-number-of-orders-and-customers-in-the-united-kingdom)
 - [What is the number of orders per each invoice date?](#what-is-the-number-of-orders-per-each-invoice-date)
-- [How many times each stockcode of a product is ordered?](#how-many-times-each-stockcode-of-a-product-is-ordered)
+- [How many times each stockcode of a product is purchased?](#how-many-times-each-stockcode-of-a-product-is-purchased)
 - [What is the quantity of items ordered per each unique invoicedate?](#what-is-the-quantity-of-items-ordered-per-each-unique-invoicedate)
 - [Which invoicedates have the highest revenue?](#which-invoicedates-have-the-highest-revenue)
 - [Who are the customers who buy the most from the store based on quantities?](#who-are-the-customers-who-buy-the-most-from-the-store-based-on-quantities)
@@ -25,7 +25,7 @@
 ### OUTPUT SAMPLE:
 ![4](https://user-images.githubusercontent.com/121814714/219775526-9c02321d-0801-4ef0-b7f0-aec936e8423b.PNG)
 -----------------------------------------------------------------------------
-### How many times each stockcode of a product is ordered?
+### How many times each stockcode of a product is purchased?
 ![7](https://user-images.githubusercontent.com/121814714/219783810-70bc17cf-2b74-4612-b571-3ad312618dae.PNG)
 ### OUTPUT SAMPLE:
 ![8](https://user-images.githubusercontent.com/121814714/219783913-aec4c8cb-9a52-4bf8-9790-215175722f8b.PNG)
@@ -54,6 +54,9 @@
 - All the customers' purchasing transactions take place only in the United Kingdom city, with 110 total cutomers that have done 717 orders.
 - Most of the orders are ordered from 11:00 to 15:00 [Specially at 14:00].
 - Proucts with stockcode 84077 , 84879 are ordered the most [11848 and 6095 times].
-- 
--
--
+- Top 2 quantities of items were order in AUG month [4-8 and 11-8-2011].
+- There is a strong correlatoin between the quanitity of items purchased and the returned revenue, As the top 2 highest amount of revenue were returnred at the same 2 days that were having the highest purchased quanitity of items [4-8 and 11-8-2011].
+- Customers with customer id 12748, 12971 and 12921 are the top 3 ones who buy the most from the store
+- Customers with customer id 12931, 12748 and 12901 are the top 3 highest paid customers.
+------------------------------------------------
+

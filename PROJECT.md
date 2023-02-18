@@ -70,5 +70,15 @@
  ![image](https://user-images.githubusercontent.com/121814714/219882932-66d352d1-4484-42d8-a718-47099f0ed931.png)
 ### OUTPUT SAMPLE:
 ![image](https://user-images.githubusercontent.com/121814714/219883009-7ac4c89b-79e8-42ea-9b97-831c260e7a72.png)
-
+----------------------------------------------------
+### #STEP 2 : Getting Frequency Column:
+![image](https://user-images.githubusercontent.com/121814714/219883144-f1f83613-b0d2-4984-a03d-4f5031b10fa7.png)
+### OUTPUT SAMPLE:
+![image](https://user-images.githubusercontent.com/121814714/219883129-e1d49fdd-31ba-496e-a365-c135638f45ab.png)
+----------------------------------------------------
+### #STEP 3 : Getting Monetary Column:
+![image](https://user-images.githubusercontent.com/121814714/219883246-0c38b317-bc68-443e-95eb-7272213120b4.png)
+### OUTPUT SAMPLE:
+![image](https://user-images.githubusercontent.com/121814714/219883232-302fef14-1b48-498d-9a85-dc5dead4b917.png)
+----------------------------------------------------
 

@@ -12,7 +12,7 @@ Customers have purchasing transactions that shall be monitored in order to obser
 - [What is the quantity of orders per each stockcode?](#what-is-the-quantity-of-orders-per-each-stockcode)
 - [What is the quantity ordered per each unique invoicedate?](#what-is-the-quantity-ordered-per-each-unique-invoicedate)
 - [Which invoicedates have the highest revenue?](#which-invoicedates-have-the-highest-revenue)
-- [Which customers who buy the most from the store based on quantities?](#which-customers-who-buy-the-most-from-the-store-based-on-quantities)
+- [Who are the customers who buy the most from the store based on quantities?](#who-are-the-customers-who-buy-the-most-from-the-store-based-on-quantities)
 - [Who are the highest paid customers of my store?](#who-are-the-highest-paid-customers-of-my-store)
 --------------------------------------------------------------------------------
 ### What is the number of orders and customers in the united kingdom?
@@ -27,12 +27,12 @@ Customers have purchasing transactions that shall be monitored in order to obser
 -----------------------------------------------------------------------------
 ### What is the quantity of orders per each stockcode?
 ![7](https://user-images.githubusercontent.com/121814714/219783810-70bc17cf-2b74-4612-b571-3ad312618dae.PNG)
-### OUTPUT SAMPLE [ordered DESC]:
+### OUTPUT SAMPLE:
 ![8](https://user-images.githubusercontent.com/121814714/219783913-aec4c8cb-9a52-4bf8-9790-215175722f8b.PNG)
 ------------------------------------------------------------------------------
 ### What is the quantity ordered per each unique invoicedate?
 ![9](https://user-images.githubusercontent.com/121814714/219785315-347d2338-88f5-4a54-a36c-d0d7844bbbeb.PNG)
-### OUTPUT SAMPLE [ordered DESC]:
+### OUTPUT SAMPLE:
 ![10](https://user-images.githubusercontent.com/121814714/219785390-e1cae25a-214f-44f6-8794-8f8f7ff43693.PNG)
 ------------------------------------------------------------------------------
 ### Which invoicedates have the highest revenue?
@@ -40,7 +40,7 @@ Customers have purchasing transactions that shall be monitored in order to obser
 ### OUTPUT SAMPLE:
 ![14](https://user-images.githubusercontent.com/121814714/219789269-754e8f69-5508-4901-b9ae-06324223ec37.PNG)
 ------------------------------------------------------------------------
-### Which customers who buy the most from the store based on quantities?
+### Who are the customers who buy the most from the store based on quantities?
 ![11](https://user-images.githubusercontent.com/121814714/219786980-2a28df52-d8d8-4060-92e7-456769dee961.PNG)
 ### OUTPUT SAMPLE:
 ![12](https://user-images.githubusercontent.com/121814714/219787038-eb727cc9-ce3b-4957-beb8-61e631243038.PNG)

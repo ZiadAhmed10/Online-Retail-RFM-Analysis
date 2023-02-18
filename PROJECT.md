@@ -59,4 +59,10 @@
 - Customers with customer id 12748, 12971 and 12921 are the top 3 ones who buy the most from the store.
 - Customers with customer id 12931, 12748 and 12901 are the top 3 highest paid customers.
 ------------------------------------------------
+## SECOND OF ALL: CUSTOMER SEGMENTATION 
+
+#### Trying to categorize customers based on 3 values:
+1- Receny: The most recent transaction date in which the customer has purchased from the store.
+2- Frequency: How many times has the customer bough from the store?
+3- Monetary: How much has each customer paid for the store through transactions?
 

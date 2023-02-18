@@ -3,7 +3,7 @@
 ## PROJECT DESCRIPTION:
 Customers have purchasing transactions that shall be monitored in order to observe each customer behavior to be able to target the customer in the most efficient and proactive way in the fututre to increase sales/revenue , enhance customers' retention and decrease churm.
 ----------------------------------------------
-## Dataset sample 
+## DATASET SAMPLE: 
 
 ----------------------------------------------
 ## First of all: Asking some questions in order to gain some insights through answering these questions :

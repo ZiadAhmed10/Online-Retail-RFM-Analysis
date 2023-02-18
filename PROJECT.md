@@ -9,7 +9,7 @@
 ## First of all: Asking some questions in order to gain some insights through answering these questions :
 - [What is the number of orders and customers in the united kingdom?](#What-is-the-number-of-orders-and-customers-in-the-united-kingdom)
 - [What is the number of orders per each invoice date?](#what-is-the-number-of-orders-per-each-invoice-date)
-- [How many times each stockcode is ordered?](#how-many-times-each-stockcode-is-ordered?)
+- [How many times each stockcode is ordered?](#how-many-times-each-stockcode-is-ordered)
 - [What is the quantity ordered per each unique invoicedate?](#what-is-the-quantity-ordered-per-each-unique-invoicedate)
 - [Which invoicedates have the highest revenue?](#which-invoicedates-have-the-highest-revenue)
 - [Who are the customers who buy the most from the store based on quantities?](#who-are-the-customers-who-buy-the-most-from-the-store-based-on-quantities)

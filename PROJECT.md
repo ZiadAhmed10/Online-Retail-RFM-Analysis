@@ -1,7 +1,7 @@
 # Analytical-SQL-Project
 ----------------------------------------------
 ## PROJECT DESCRIPTION:
-### Customers have purchasing transactions that shall be monitored in order to observe each customer behavior to be able to target the customer in the most efficient and proactive way in the fututre to increase sales/revenue , enhance customers' retention and decrease churm.
+#### Customers have purchasing transactions that shall be monitored in order to observe each customer behavior to be able to target the customer in the most efficient and proactive way in the fututre to increase sales/revenue , enhance customers' retention and decrease churm.
 ----------------------------------------------
 ## DATASET SAMPLE: 
 

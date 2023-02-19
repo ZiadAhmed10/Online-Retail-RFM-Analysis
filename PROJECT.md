@@ -85,10 +85,14 @@
 ### OUTPUT SAMPLE:
 ![image](https://user-images.githubusercontent.com/121814714/219883232-302fef14-1b48-498d-9a85-dc5dead4b917.png)
 ----------------------------------------------------
-### #STEP 4 : Categorizing my customers based on their average score of FREQUENCY,MONETARY together and RECENCY score on its own [USING NTILE FUNCTION]:
-![image](https://user-images.githubusercontent.com/121814714/219899506-b346ed41-1f42-4d9c-926b-18624ca7b708.png)
+### #STEP 4 : Categorizing my customers into 5 categories based on their average score of FREQUENCY,MONETARY together and RECENCY score on its own [USING NTILE FUNCTION]:
+![image](https://user-images.githubusercontent.com/121814714/219944591-5d7d5cdc-618e-44b4-843d-6dc3d9f1933a.png)
 ### #OUTPUT SAMPLE:
-![image](https://user-images.githubusercontent.com/121814714/219899556-3750b21d-7376-47ee-9994-a072a879d390.png)
+![image](https://user-images.githubusercontent.com/121814714/219946590-7fe48246-e23d-44ac-99e4-b1c20e3ae974.png)
 -------------------------------------------------
 ### #LAST STEP : Segmenting customers into [Champions/Loyal Customers/Potential/Loyalists/Recent Customers/Promising/Customers Needing Attention/At Risk/Cant Lose/Them/Hibernating/Lost] Groups:
+![image](https://user-images.githubusercontent.com/121814714/219946625-96d2974f-fe69-40fd-ae33-60a3c57460fd.png)
+### OUTPUT SAMPLE:
+![image](https://user-images.githubusercontent.com/121814714/219946749-b71f8a4d-cd1a-47a1-8c75-b8da0ce36657.png)
+
 

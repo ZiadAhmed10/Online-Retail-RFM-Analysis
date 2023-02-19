@@ -95,5 +95,6 @@
 ### OUTPUT SAMPLE:
 ![image](https://user-images.githubusercontent.com/121814714/219946749-b71f8a4d-cd1a-47a1-8c75-b8da0ce36657.png)
 ---------------------------------------
-### GET IN TOUCH WITH ME 
-
+## 🔗 Get In Touch
+<a href="mailto:zaidahmed12300@gmail.com"><img alt="Gmail" title="Ziad Ahmed's Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ziad-ahmed0)

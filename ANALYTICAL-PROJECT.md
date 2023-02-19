@@ -91,9 +91,9 @@
 ![image](https://user-images.githubusercontent.com/121814714/219946590-7fe48246-e23d-44ac-99e4-b1c20e3ae974.png)
 -------------------------------------------------
 ### #LAST STEP : Segmenting customers into [Champions/Loyal Customers/Potential/Loyalists/Recent Customers/Promising/Customers Needing Attention/At Risk/Cant Lose/Them/Hibernating/Lost] Groups:
-![image](https://user-images.githubusercontent.com/121814714/219946625-96d2974f-fe69-40fd-ae33-60a3c57460fd.png)
+![image](https://user-images.githubusercontent.com/121814714/219954790-2e07be47-6fdb-41e9-a0b5-23406c93998a.png)
 ### OUTPUT SAMPLE:
-![image](https://user-images.githubusercontent.com/121814714/219946749-b71f8a4d-cd1a-47a1-8c75-b8da0ce36657.png)
+![image](https://user-images.githubusercontent.com/121814714/219954820-5e85c399-a817-474a-b75f-aa0e53fefa4a.png)
 ---------------------------------------
 ## 🔗 Get In Touch
 <a href="mailto:zaidahmed12300@gmail.com"><img alt="Gmail" title="Ziad Ahmed's Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>

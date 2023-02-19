@@ -96,4 +96,4 @@
 ![image](https://user-images.githubusercontent.com/121814714/219946749-b71f8a4d-cd1a-47a1-8c75-b8da0ce36657.png)
 ---------------------------------------
 ### GET IN TOUCH WITH ME 
-![download](https://user-images.githubusercontent.com/121814714/219947353-84c2d77a-d74d-49c4-86fb-6c1434ef13ea.png) (www.linkedin.com/in/ziad-ahmed0)
+

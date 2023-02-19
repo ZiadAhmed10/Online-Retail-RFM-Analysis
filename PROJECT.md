@@ -85,7 +85,7 @@
 ### OUTPUT SAMPLE:
 ![image](https://user-images.githubusercontent.com/121814714/219883232-302fef14-1b48-498d-9a85-dc5dead4b917.png)
 ----------------------------------------------------
-### #STEP 4 : Categorizing my customers into 5 categories based on their average score of FREQUENCY,MONETARY together and RECENCY score on its own [USING NTILE FUNCTION]:
+### #STEP 4 : Categorizing my customers into 5 categories based on their average score of FREQUENCY,MONETARY together (FM_SCORE) and RECENCY score on its own (R_SCORE) [USING NTILE FUNCTION]:
 ![image](https://user-images.githubusercontent.com/121814714/219944591-5d7d5cdc-618e-44b4-843d-6dc3d9f1933a.png)
 ### #OUTPUT SAMPLE:
 ![image](https://user-images.githubusercontent.com/121814714/219946590-7fe48246-e23d-44ac-99e4-b1c20e3ae974.png)

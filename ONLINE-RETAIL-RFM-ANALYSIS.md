@@ -3,11 +3,19 @@
 ## PROJECT DESCRIPTION:
 #### Customers have purchasing transactions that shall be monitored in order to observe each customer behavior to be able to target the customer in the most efficient and proactive way in the fututre to increase sales/revenue , enhance customers' retention and decrease churm.
 ----------------------------------------------
+## What is RFM metirc ?
+
+- RFM analysis is a marketing technique used to quantitatively rank and group customers based on the recency, frequency and monetary total of their recent transactions to identify the best customers and perform targeted marketing campaigns.
+- Find the attatched picture below to get it more effectively
+
+![image](https://user-images.githubusercontent.com/121814714/224556694-de1aa949-fd8b-4cde-ace5-bb909f7d76ec.png)
+
+----------------------------------------------
 ## DATASET SAMPLE: 
 ![17](https://user-images.githubusercontent.com/121814714/219868596-1c753d69-0a01-418c-b2f6-ba04acf57455.PNG)
 -------------------------------------
 ## First of all: Asking some questions in order to gain some insights about the data through answering these questions :
-- [What is the number of orders and customers in the united kingdom?](#What-is-the-number-of-orders-and-customers-in-the-united-kingdom)
+- [What is the number of orders and customers in the united kingdom?](#what-is-the-number-of-orders-and-customers-in-the-united-kingdom)
 - [What is the number of orders per each invoice date?](#what-is-the-number-of-orders-per-each-invoice-date)
 - [How many times each stockcode of a product is purchased?](#how-many-times-each-stockcode-of-a-product-is-purchased)
 - [What is the quantity of items ordered per each unique invoicedate?](#what-is-the-quantity-of-items-ordered-per-each-unique-invoicedate)

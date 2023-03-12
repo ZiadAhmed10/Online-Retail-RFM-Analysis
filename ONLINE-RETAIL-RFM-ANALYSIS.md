@@ -51,20 +51,20 @@
 ![16](https://user-images.githubusercontent.com/121814714/219791140-00cae43e-67d3-43cc-b8b8-b4305bc03870.PNG)
 ---------------------------------------------------------------------------------------------------
 ## Quick Insights from the answers:
-- All the customers' purchasing transactions took place only in the United Kingdom city, with 110 total cutomers who've done 717 orders.
-- Most of the orders were ordered from 11:00 to 15:00 [Especially at 14:00].
-- Proucts with stockcode 84077 , 84879 were ordered the most [11848 and 6095 times].
-- Top 2 quantities of items were ordered in AUGUST month [4-8 and 11-8-2011].
-- There is a strong correlatoin between the quanitity of items purchased and the returned revenue, As the top 2 highest amount of revenue were returnred at the same 2 days which had the highest purchased quanitity of items [4-8 and 11-8-2011].
-- Customers with customer id 12748, 12971 and 12921 are the top 3 ones who bought the most from the store.
-- Customers with customer id 12931, 12748 and 12901 are the top 3 highest paid customers.
+- All the customers' purchasing transactions took place only in the `United Kingdom` city, with `110` total cutomers who've done `717` orders.
+- Most of the orders were ordered from `11:00` to `15:00` [Especially at `14:00`].
+- Proucts with stockcode `84077` , `84879` were ordered the most [`11848` and `6095` times].
+- `Top 2 quantities` of items were ordered in `AUGUST` month [`4-8` and `11-8-2011`].
+- There is a strong correlatoin between the `quanitity of items purchased` and the `returned revenue`, As the top 2 highest amount of revenue were returnred at the same 2 days which had the highest purchased quanitity of items [`4-8` and `11-8-2011`].
+- Customers with customer id `12748`, `12971` and `12921` are the `top 3 ones` who bought the most from the store.
+- Customers with customer id `12931`, `12748` and `12901` are the t`op 3 highest paid customers`.
 ------------------------------------------------
 ## SECOND OF ALL: CUSTOMER SEGMENTATION 
 
 ### Trying to categorize customers based on 3 values:
- - Receny: The most recent transaction date in which the customer has purchased from the store.
- - Frequency: How many times has the customer bough from the store?
- - Monetary: How much has each customer paid for the store through transactions?
+ - `Recency`: The most recent transaction date in which the customer has purchased from the store.
+ - `Frequency`: How many times has the customer bough from the store?
+ - `Monetary`: How much has each customer paid for the store through transactions?
  ----------------------------------------------------
  ### #STEP 1 : Getting the most recent purchase date for each customer
  ![image](https://user-images.githubusercontent.com/121814714/219884075-54b940ff-9ece-434e-be3b-211e51e055f5.png)
